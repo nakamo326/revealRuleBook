@@ -3,7 +3,7 @@ using BepInEx;
 using HarmonyLib;
 using DiskCardGame;
 
-namespace testMod
+namespace RevealRuleBook
 {
     [BepInPlugin(PluginGuid, PluginName, PluginVersion)]
     public class Plugin : BaseUnityPlugin
